@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Thu, 25 Feb 2021 10:59:44 +0000</lastBuildDate>
+        
+        <item>
+            <title>Quarkus 1.12 released - Fast jar as default, Multipart support for RESTEasy Reactive</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-12-0-final-released/
+            </link>
+            <description>
+                It is my pleasure to announce the release of Quarkus 1.12.0.Final. It comes with some significant changes: Fast jar is now the default packaging when you build a jar. RESTEasy Reactive keeps improving and it now has support for multipart. Vert.x Axle and RX Java managed instances have been dropped....
+            </description>
+            <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-12-0-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.11.3.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-3-final-released/
+            </link>
+            <description>
+                1.11.3.Final mainly fixes a regression introduced in 1.11.2.Final that makes it impossible to build native executables while using both the RESTEasy and OpenTracing extensions. It is a safe upgrade for everyone using Quarkus 1.11. If you are not using 1.11 already, please refer to the 1.11 migration guide. You can...
+            </description>
+            <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Massive performance without headaches</title>
+            <link>
+                https://quarkus.io/blog/resteasy-reactive-faq/
+            </link>
+            <description>
+                The purpose of this blog post is to clear up some confusion about RESTEasy Reactive and answer some commonly asked questions around it. Acknowledgement This blog post would not have been possible without the expert advice of Clement Escoffier and Stéphane Épardaud. Imperative and Reactive: the elevator pitch In our...
+            </description>
+            <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/resteasy-reactive-faq/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.11.2.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-2-final-released/
+            </link>
+            <description>
+                1.11.2.Final is a maintenance release fixing bugs and improving the documentation. It is a safe upgrade for everyone using Quarkus 1.11. If you are not using 1.11 already, please refer to the 1.11 migration guide. What&#8217;s new? Hibernate ORM We upgraded to Hibernate ORM 5.4.27.SP1 which fixes an important issue,...
+            </description>
+            <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-2-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus Insights Q&amp;A</title>
+            <link>
+                https://quarkus.io/blog/quarkus-insights-qanda/
+            </link>
+            <description>
+                On the next Quarkus Insights episode, we are trying something new. We will cover the most often asked questions we have seen and any question tagged with #quarkusinsights on our various social media presences: Twitter, Facebook, LinkedIn or on the youtube event directly. If you have a question about Quarkus...
+            </description>
+            <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-insights-qanda/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Getting Started with AMQP in your Quarkus application</title>
+            <link>
+                https://quarkus.io/blog/getting-started-amqp/
+            </link>
+            <description>
+                AMQP 1.0 is a standard for passing messages between applications or organizations. It connects systems, feeds business processes with the information they need, and reliably handles communication between systems. AMQP is a robust and mature protocol widely used in event-driven applications. This post is the equivalent of the Kafka getting...
+            </description>
+            <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/getting-started-amqp/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus Newsletter #9</title>
+            <link>
+                https://quarkus.io/blog/quarkus-newsletter-9/
+            </link>
+            <description>
+                We took a little break, but now another Newsletter round of stories found! For the news below - give it a read and if you feel something is missing or have an article coming out for future Quarkus Newsletter install the bookmarklet on your laptop and phone to easily submit...
+            </description>
+            <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-newsletter-9/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.11.1.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-1-final-released/
+            </link>
+            <description>
+                1.11.1.Final is a maintenance release fixing bugs and improving the documentation. Thanks to all the contributors who reported issues and provided reproducers: it allowed us to make steady progress on fixing issues. Also a big thanks to all the contributors providing pull requests, be they for the code or the...
+            </description>
+            <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-1-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.11 released - RESTEasy Reactive, Dev UI, and more!</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-0-final-released/
+            </link>
+            <description>
+                For each Quarkus release, it&#8217;s the same story: it comes with a ton of exciting new features and enhancements&#8230;&#8203; But believe it or not, it&#8217;s true. 1.11 is an important milestone as it marks the beginning of two amazing new features: RESTEasy Reactive, Our Dev UI. But it also comes...
+            </description>
+            <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-0-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Getting Started with Apache Kafka in your Quarkus application</title>
+            <link>
+                https://quarkus.io/blog/getting-started-kafka/
+            </link>
+            <description>
+                Apache Kafka is a prevalent distributed streaming platform offering a unique set of characteristics such as message retention, replay capabilities, consumer groups, and so on. Kafka is highly scalable, fault-tolerant, and is becoming the spine of many modern systems. That being said, Kafka is not the only one out there,...
+            </description>
+            <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/getting-started-kafka/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
